@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CorePix Mobile App</string>
+    <string name="todo">TODO</string>
+    <string name="file_name">File Name</string>
+    <string name="view_all_files">View All Files</string>
+    <string name="enter_the_file_name">Enter The File Name</string>
+    <string name="date_of_creation">Date of Creation</string>
+</resources>
